@@ -21,7 +21,7 @@ body{
     background-position: center;
 }
 
-body>div{
+body>.boxs{
     min-height: 300px;
     width: max( 15%,200px);
     background-color: rgba(255, 255, 255, 0.1);
