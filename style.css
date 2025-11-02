@@ -15,7 +15,7 @@ body{
     min-height: 100vh;
     flex-wrap: wrap;
     gap: 2vh;
-    background-image:url(/bg-4.jpg);
+    background-image:url(bg-4.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
